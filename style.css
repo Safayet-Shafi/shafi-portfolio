@@ -8,7 +8,7 @@ h1{
 .name-color{
     color: chocolate;
 }
-section{
+.flexible{
     display: flex;
     margin-bottom: 100px;
 }
@@ -48,4 +48,20 @@ section{
 }
 p{
    text-align: justify; 
+}
+.last{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 10px ;
+}
+h2{
+    font-size: xx-large;
+}
+.experiance{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    
 }
