@@ -65,3 +65,15 @@ h2{
     background-repeat: no-repeat;
     
 }
+#front{
+    border-left: 8px solid tomato;
+    
+    
+}
+#back{
+    border-left: 8px solid blue;
+}
+footer p{
+    text-align: center;
+    color: darkred;
+}
